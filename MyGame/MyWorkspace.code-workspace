@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Docker",
+			"path": "../../Docker"
+		},
+		{
+			"name": "Python",
+			"path": ".."
+		},
+		{
+			"path": "../../Ansible"
+		},
+		{
+			"path": "../../Terraform"
+		}
+	],
+	"settings": {}
+}
